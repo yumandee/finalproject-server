@@ -1,9 +1,6 @@
-# starter-server
+# Final Project: CRUD App
 
-Starter code for the backend of our final CRUD app
+## Server 
 
-To start:
-
-`npm run dev`
-
-Download Postgres and Postman. 
+## Project Members:
+- Mandy Yu (yumandee)
